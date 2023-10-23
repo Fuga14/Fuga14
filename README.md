@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👋🏼 Hey, I’m Vladyslav Pereder
 - :round_pushpin: Ukraine, Kyiv
-- 💻 I'm a Blockchain Developer
+- 💻 I'm a Blockchain Developer | Solidity Security Auditor at Blaize.tech
 - 🎓 Student at the Faculty of Computer Engineering
 
 ## Tech Skills
