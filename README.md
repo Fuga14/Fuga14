@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - 👋🏼 Hey, I’m Vladyslav Pereder
 - :round_pushpin: Ukraine, Kyiv
 - 💻 I'm a Blockchain Developer | Solidity Security Auditor
-- 🎓 Student at the Faculty of Computer Engineering
 
 ## Tech Skills
 
@@ -34,6 +33,12 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#pereder-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="#pereder-tech">
         <img src="https://assets.zabbix.com/img/brands/nodejs.svg" width="48" height="48" alt="NodeJS"         />
       </a>
       <br>NodeJS
@@ -43,6 +48,12 @@ Here are some ideas to get you started:
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" width="48" height="48" alt="Solidity" />
       </a>
       <br>Solidity
+    </td>
+    <td align="center" width="96">
+      <a href="#pereder-tech">
+        <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="48" height="48" alt="Solidity" />
+      </a>
+      <br>Go
     </td>
     
   </tr>
