@@ -38,12 +38,6 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#pereder-tech">
-        <img src="https://assets.zabbix.com/img/brands/nodejs.svg" width="48" height="48" alt="NodeJS"         />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#pereder-tech">
         <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/solidity-icon.png" width="48" height="48" alt="Solidity" />
       </a>
       <br>Solidity
