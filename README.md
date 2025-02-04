@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋🏼 Hey, I’m Vladyslav Pereder
-- :round_pushpin: Ukraine, Kyiv
+- 👋🏼 Hey, I’m Vladyslav
 - 💻 I'm a Blockchain Developer | Solidity Security Auditor
 
 ## Tech Skills
@@ -149,68 +148,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-> Code quality & Testing
 
-<table width='100%'>
-  <tr>
-     <td align="center" width="96">
-      <a href="#pereder-tech">
-        <img src="https://brandeps.com/icon-download/E/Eslint-icon-vector-02.svg" width="48" height="48" alt="Eslint" />
-      </a>
-      <br>Eslint
-    </td>
-    <td align="center" width="96">
-      <a href="#pereder-tech">
-        <img src="https://brandeps.com/icon-download/P/Prettier-icon-vector-02.svg" width="48" height="48" alt="Prettier" />
-      </a>
-      <br>Prettier
-    </td>
-    <td align="center" width="96"> 
-      <a href="#pereder-tech" >
-        <img src="https://avatars.githubusercontent.com/u/27652275?s=200&v=4" width="48" height="48" alt="Jest" />
-      </a>
-      <br>Solidity coverage
-    </td>
-    <td align="center" width="96">
-      <a href="#pereder-tech">
-        <img src="https://ethereum-waffle.readthedocs.io/en/latest/_static/waffle-logo-square.svg" width="48" height="48" alt="Waffle" />
-      </a>
-      <br>Waffle
-    </td>
-  </tr> 
-</table>
-
-> Tools
-
-<table width='100%'>
-  <tr>
-    <td align="center" width="96">
-      <a href="#pereder-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-     <td align="center" width="96"> 
-      <a href="#pereder-tech" >
-        <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" width="48" height="48" alt="GitHub" />
-      </a>
-      <br>GitHub
-    </td>
-     <td align="center" width="96"> 
-      <a href="#pereder-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-     <td align="center" width="96">
-      <a href="#pereder-tech" >
-        <img src="https://miro.medium.com/v2/resize:fit:420/1*3jj5tQildSIyhl-RO6RLlA.png" width="45" height="45" alt="Remix IDE" />
-      </a>
-      <br>Remix IDE
-    </td>
-
-  </tr> 
-</table>
 
 ## Socials
 
@@ -218,5 +156,4 @@ Here are some ideas to get you started:
 - :phone: &nbsp;**[Telegram](https://t.me/fuga_eth)**
 - :seedling: &nbsp;**[Twitter/X](https://twitter.com/fuga_eth)**
 - :mailbox: &nbsp;**vladyslavpereder@gmail.com**
-- :mailbox: &nbsp;**vladpereder@icloud.com**
 
