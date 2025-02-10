@@ -56,18 +56,6 @@ Here are some ideas to get you started:
 
 <table width='100%'>
   <tr>
-     <td align="center" width="96">
-      <a href="#pereder-tech">
-         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#pereder-tech">
-        <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" width="48" height="48" alt="NextJS" />
-      </a>
-      <br>NextJS
-    </td>
     <td align="center" width="96">
       <a href="#pereder-tech">
         <img src="https://www.solodev.com/file/13466e21-dd2c-11ec-b9ad-0eaef3759f5f/Hardhat-Logo-Icon.png" width="48" height="48" alt="Hardhat" />
@@ -79,18 +67,6 @@ Here are some ideas to get you started:
         <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" width="48" height="40" alt="EthersJS" />
       </a>
       <br>EthersJS
-    </td>
-    <td align="center" width="96">
-      <a href="#pereder-tech">
-        <img src="https://image.pngaaa.com/779/6447779-middle.png" width="48" height="48" alt="Tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <a href="#pereder-tech">
-        <img src="https://pbs.twimg.com/profile_images/1520407180322693120/uS6VdwoS_400x400.jpg" width="48" height="48" alt="Wagmi" />
-      </a>
-      <br>Wagmi
     </td>
   </tr> 
   <tr>
