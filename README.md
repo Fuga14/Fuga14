@@ -64,7 +64,7 @@ Here are some ideas to get you started:
     </td>
      <td align="center" width="96">
       <a href="#pereder-tech">
-        <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" width="48" height="40" alt="EthersJS" />
+        <img src="https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fqt2ywp6nprimyxnfhmc2.png" width="48" height="48" alt="EthersJS" />
       </a>
       <br>EthersJS
     </td>
